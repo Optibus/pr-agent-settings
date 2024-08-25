@@ -8,4 +8,4 @@ By using a global configuration file, you can ensure that all your projects adhe
 
 ## File Name
 
-The global configuration file in this repository is named `pr-agent-config.yml`. This file contains all the necessary settings for PR Agent and should be referenced in your projects to apply the global configuration.
+The global configuration file in this repository is named `.pr_agent.toml`. This file contains all the necessary settings for PR Agent and should be referenced in your projects to apply the global configuration.
